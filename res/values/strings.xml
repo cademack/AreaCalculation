@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AreaCalculation</string>
+    <string name="centertext">Choose a Shape!</string>
+    <string name="areatext">Area</string>
+</resources>
